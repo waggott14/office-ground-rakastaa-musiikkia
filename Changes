@@ -1,0 +1,1 @@
+Added in Keep alive function this will ensure that ping requests are sent every 5 minutes and the app won't idle 
